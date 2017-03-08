@@ -1,0 +1,1111 @@
+{
+  "Object": [{
+    "ProjectId": 350,
+    "UserId": 661,
+    "ProjectName": "Solutions Group",
+    "FullName": "Steve Duitsman",
+    "StartDate": "2016-03-08T00:00:00Z",
+    "EndDate": "2017-03-03T00:00:00Z",
+    "TotalHours": 321.25,
+    "Skills": []
+  }, {
+    "ProjectId": 864,
+    "UserId": 661,
+    "ProjectName": "Innovation Center",
+    "FullName": "Steve Duitsman",
+    "StartDate": "2016-03-07T00:00:00Z",
+    "EndDate": "2017-03-01T00:00:00Z",
+    "TotalHours": 134.00,
+    "Skills": []
+  }, {
+    "ProjectId": 2578,
+    "UserId": 661,
+    "Comments": "Worked as part of a team to develop a member portal application allowing plan members to see claims, insurance cards and other information about their medical expenses.\nAdvocated for the use of dependency injection as a way to help make code cleaner, more separated and easier to test\nEncouraged agile process improvements by improving & clarifying the definition of done and adhering to relative estimates\nEncouraged team discussion and contribution regarding process by questioning and discussing the status quo",
+    "ProjectName": "Web Member Experience",
+    "FullName": "Steve Duitsman",
+    "StartDate": "2016-03-07T00:00:00Z",
+    "EndDate": "2016-04-27T00:00:00Z",
+    "TotalHours": 259.00,
+    "Skills": [{
+      "SkillId": 1,
+      "Name": ".NET",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 4,
+      "Name": "ASP.NET MVC",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 7,
+      "Name": "Angular 2",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": ""
+    }, {
+      "SkillId": 8,
+      "Name": "CSS / HTML",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": ""
+    }, {
+      "SkillId": 9,
+      "Name": "C#",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 24,
+      "Name": "Certified Scrum Master",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 9,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 3,
+      "SolutionSpace": {
+        "Id": 3,
+        "Name": "Delivery Excellence",
+        "Description": "",
+        "Active": true,
+        "Color": "#00BB9B"
+      }
+    }, {
+      "SkillId": 1037,
+      "Name": "Dependency Injection",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": "<ul>\r\n<li>Created software solutions demonstrating proper usage of the <a target=\"_blank\" href=https://en.wikipedia.org/wiki/Dependency_inversion_principle>dependency inversion principle</a>.\n</li>\r\n<li>Ability to explain the value of DI in software development projects.</li>\r\n\n<li>Mentors will have working knowledge of one or more DI application frameworks.</li>\r\n</ul>"
+    }, {
+      "SkillId": 1208,
+      "Name": "LINQ",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": "<a href=\"https://en.wikipedia.org/wiki/Language_Integrated_Query\">https://en.wikipedia.org/wiki/Language_Integrated_Query</a>"
+    }]
+  }, {
+    "ProjectId": 4545,
+    "UserId": 661,
+    "Comments": "Design and implement VSTS security and branch policies to improve code quality across multiple development teams\nGather requirements for a tool to better pursue leads generated by sales.\nDesign and implement nightly job to facilitate follow-up contact based on leads.",
+    "ProjectName": "Spring Green - 2017 General Maintenance",
+    "FullName": "Steve Duitsman",
+    "StartDate": "2016-11-15T00:00:00Z",
+    "EndDate": "2017-03-01T00:00:00Z",
+    "TotalHours": 47.25,
+    "Skills": [{
+      "SkillId": 3,
+      "Name": "SQL Server",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": ""
+    }, {
+      "SkillId": 4,
+      "Name": "ASP.NET MVC",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 9,
+      "Name": "C#",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 20,
+      "Name": "Web API",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 1057,
+      "Name": "EF",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": "."
+    }, {
+      "SkillId": 1208,
+      "Name": "LINQ",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": "<a href=\"https://en.wikipedia.org/wiki/Language_Integrated_Query\">https://en.wikipedia.org/wiki/Language_Integrated_Query</a>"
+    }]
+  }, {
+    "ProjectId": 4624,
+    "UserId": 661,
+    "Comments": "Implemented/completed a rewrite of an injection mold quoting system in AureliaJS and ASP.NET Web API.\nLearned Aurelia quickly while still adding business value\nKept ahead of a fast moving framework as it progressed from early beta to release 1\nRedesigned client ui to better meet the needs of the business\nRefactored & cleaned up services (front-end and back-end) to have more clear responsibilities\nTechnologies:",
+    "ProjectName": "Electroform - NET Duitsman",
+    "FullName": "Steve Duitsman",
+    "StartDate": "2016-04-27T00:00:00Z",
+    "EndDate": "2016-12-08T00:00:00Z",
+    "TotalHours": 1082.50,
+    "Skills": [{
+      "SkillId": 1,
+      "Name": ".NET",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 3,
+      "Name": "SQL Server",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": ""
+    }, {
+      "SkillId": 4,
+      "Name": "ASP.NET MVC",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 6,
+      "Name": "Javascript",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 8,
+      "Name": "CSS / HTML",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": ""
+    }, {
+      "SkillId": 9,
+      "Name": "C#",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 13,
+      "Name": "jQuery",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": ""
+    }, {
+      "SkillId": 17,
+      "Name": "Knockout.js",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": ""
+    }, {
+      "SkillId": 20,
+      "Name": "Web API",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 1028,
+      "Name": "Azure",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 1037,
+      "Name": "Dependency Injection",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": "<ul>\r\n<li>Created software solutions demonstrating proper usage of the <a target=\"_blank\" href=https://en.wikipedia.org/wiki/Dependency_inversion_principle>dependency inversion principle</a>.\n</li>\r\n<li>Ability to explain the value of DI in software development projects.</li>\r\n\n<li>Mentors will have working knowledge of one or more DI application frameworks.</li>\r\n</ul>"
+    }, {
+      "SkillId": 1049,
+      "Name": "Aurelia",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": "."
+    }, {
+      "SkillId": 1054,
+      "Name": "ES6",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": "."
+    }, {
+      "SkillId": 1055,
+      "Name": "Babel",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": "."
+    }, {
+      "SkillId": 1057,
+      "Name": "EF",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": "."
+    }, {
+      "SkillId": 1189,
+      "Name": "Lodash",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 1208,
+      "Name": "LINQ",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": "<a href=\"https://en.wikipedia.org/wiki/Language_Integrated_Query\">https://en.wikipedia.org/wiki/Language_Integrated_Query</a>"
+    }, {
+      "SkillId": 1209,
+      "Name": "Azure App Services",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": "Web apps, mobile apps, API apps, Logic Apps - see <a href=\"https://azure.microsoft.com/en-us/services/app-service/\">https://azure.microsoft.com/en-us/services/app-service</a>"
+    }]
+  }, {
+    "ProjectId": 4664,
+    "UserId": 661,
+    "Comments": "Worked as part of a team to implement changes to time tracking application for Omni’s solutions consultants.\nDesigned Skills section to help sales & delivery visualize available capacity and align client needs with consultant skills",
+    "ProjectName": "The HUB - Enhancements",
+    "FullName": "Steve Duitsman",
+    "StartDate": "2016-12-02T00:00:00Z",
+    "EndDate": "2017-03-03T00:00:00Z",
+    "TotalHours": 217.25,
+    "Skills": [{
+      "SkillId": 3,
+      "Name": "SQL Server",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": ""
+    }, {
+      "SkillId": 6,
+      "Name": "Javascript",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 8,
+      "Name": "CSS / HTML",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": ""
+    }, {
+      "SkillId": 9,
+      "Name": "C#",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 20,
+      "Name": "Web API",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 21,
+      "Name": "AngularJS",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 1050,
+      "Name": "Bootstrap",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": "."
+    }]
+  }, {
+    "ProjectId": 4733,
+    "UserId": 661,
+    "Comments": "Implemented updates to a Node backend for a business critical part quoting tool.",
+    "ProjectName": "WM Sprinkman - BOM Support",
+    "FullName": "Steve Duitsman",
+    "StartDate": "2017-01-03T00:00:00Z",
+    "EndDate": "2017-01-05T00:00:00Z",
+    "TotalHours": 10.00,
+    "Skills": [{
+      "SkillId": 22,
+      "Name": "Node.js",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }]
+  }, {
+    "ProjectId": 4745,
+    "UserId": 661,
+    "ProjectName": "SIG - Mobile Workforce",
+    "FullName": "Steve Duitsman",
+    "StartDate": "2017-01-27T00:00:00Z",
+    "EndDate": "2017-01-27T00:00:00Z",
+    "TotalHours": 1.00,
+    "Skills": []
+  }, {
+    "ProjectId": 4749,
+    "UserId": 661,
+    "ProjectName": "Behavior Modification/Gamification/Entertainment SIG Organization",
+    "FullName": "Steve Duitsman",
+    "StartDate": "2017-02-01T00:00:00Z",
+    "EndDate": "2017-02-01T00:00:00Z",
+    "TotalHours": 1.50,
+    "Skills": []
+  }, {
+    "ProjectId": 4781,
+    "UserId": 661,
+    "Comments": "Develop a weather web application to learn React, Redux, TypeScript and .NET Core",
+    "ProjectName": "React Redux Typescript .net core app",
+    "FullName": "Steve Duitsman",
+    "StartDate": "2017-02-13T00:00:00Z",
+    "EndDate": "2017-03-01T00:00:00Z",
+    "TotalHours": 29.75,
+    "Skills": [{
+      "SkillId": 9,
+      "Name": "C#",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 1047,
+      "Name": "React",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": "."
+    }, {
+      "SkillId": 1048,
+      "Name": "Redux",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": "."
+    }, {
+      "SkillId": 1050,
+      "Name": "Bootstrap",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": "."
+    }, {
+      "SkillId": 1053,
+      "Name": "TypeScript",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": "."
+    }, {
+      "SkillId": 1093,
+      "Name": "Git",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 1157,
+      "Name": "Azure - Compute Setup & Dev",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 1158,
+      "Name": "Azure - Service Management",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 1206,
+      "Name": ".NET Core",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": "<a href=https://dotnet.github.io/>https://dotnet.github.io/</a>"
+    }]
+  }, {
+    "ProjectId": 4785,
+    "UserId": 661,
+    "Comments": "Develop an Amazon Alexa skill to perform simple math.",
+    "ProjectName": "Amazon Alexa Skill",
+    "FullName": "Steve Duitsman",
+    "StartDate": "2017-02-06T00:00:00Z",
+    "EndDate": "2017-02-07T00:00:00Z",
+    "TotalHours": 9.00,
+    "Skills": [{
+      "SkillId": 9,
+      "Name": "C#",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 20,
+      "Name": "Web API",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 1029,
+      "Name": "AWS",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }, {
+      "SkillId": 1080,
+      "Name": "IVA - Amazon Alexa",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      },
+      "Description": "Ability to create voice-enabled applications for use on the Amazon Alexa platform"
+    }, {
+      "SkillId": 1157,
+      "Name": "Azure - Compute Setup & Dev",
+      "IsActive": true,
+      "Group": "&#xe135;",
+      "TechnologyStackId": 0,
+      "Likes": 0,
+      "Dislikes": 0,
+      "Experts": 0,
+      "Projects": 0,
+      "SolutionSpaceId": 7,
+      "SolutionSpace": {
+        "Id": 7,
+        "Name": "Software & Mobile Dev",
+        "Description": "",
+        "Active": true,
+        "Color": "#04A9F8"
+      }
+    }]
+  }],
+  "Success": true,
+  "Messages": [],
+  "Warnings": []
+}
