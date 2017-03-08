@@ -7,8 +7,8 @@
   </PropertyGroup>
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>8f1bd06a-eb81-4ce0-a19b-8a766a33e773</ProjectGuid>
-    <RootNamespace>ProfileGenerator</RootNamespace>
+    <ProjectGuid>167a74c0-15e5-4898-bdf4-7436b13d0303</ProjectGuid>
+    <RootNamespace>OmniProfileGenerator</RootNamespace>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup>

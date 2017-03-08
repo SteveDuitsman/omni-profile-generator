@@ -75,6 +75,6 @@
   },
 
   "tooling": {
-    "defaultNamespace": "ProfileGenerator"
+    "defaultNamespace": "OmniProfileGenerator"
   }
 }
